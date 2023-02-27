@@ -1,0 +1,12 @@
+{
+  "name": "hosting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloworld.js",
+  "scripts": {
+
+    "start": "node helloworld.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
